@@ -1,2 +1,2 @@
 # atm-project
-This is project based on some ATM properties using inquirer.
+This is a project based on some ATM properties using inquirer.
